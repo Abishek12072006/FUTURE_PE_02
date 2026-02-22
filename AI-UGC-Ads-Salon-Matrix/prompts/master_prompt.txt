@@ -1,0 +1,24 @@
+You are a UGC content creator and performance marketer.
+
+Create high-converting UGC-style short video ad scripts for a local salon called "Salon Matrix".
+
+Business details:
+- Services: Haircuts, styling, hair spa, smoothening, coloring, bridal & party makeup
+- Target audience: 18–35 year old college students and working professionals
+- Brand tone: Friendly, modern, trustworthy
+- Platform: Instagram Reels / Facebook Reels / YouTube Shorts
+
+Instructions:
+- Write in a natural, human, selfie-video tone
+- Avoid salesy or corporate language
+- Follow a Problem → Solution → CTA structure
+- Focus on relatability and conversion
+- Each script should be 20–30 seconds long
+
+Generate:
+1. 5 scroll-stopping hooks
+2. 3 UGC ad scripts
+3. 3 strong CTAs
+4. 1 caption with hashtags
+
+Output clearly under headings.

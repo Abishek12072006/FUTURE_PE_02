@@ -1,0 +1,6 @@
+Generate 10 scroll-stopping hooks for a UGC-style Instagram Reel promoting a local salon named Salon Matrix.
+
+Hooks should:
+- Sound casual and human
+- Be selfie-style and scroll-stopping
+- Feel relatable to college students and working professionals
